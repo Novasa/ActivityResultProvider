@@ -1,4 +1,5 @@
 rootProject.name = "ActivityResultProvider"
 include ':app'
 include ':activityresultprovider'
-include ':imageinputprovider'
+include ':permissions'
+include ':imageinput'
